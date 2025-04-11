@@ -369,33 +369,4 @@ New
      height:70px !important;
      width:9%;
    }
-  }
-  
-@media screen and (max-width:768px){
-  .mainN {
-      padding-bottom:100px !important;
-  }
-
-  nav {
-    padding-left:0px !important;
-}
-  nav ul li {
-    padding:0px 18px; 
-  }
-
-  h4{
-    padding-bottom:0px !important
-  }
-  .nav-div .lastp{
-    padding-left:120px !important;
-  }
-
-  .i-padding {
-    padding-left: 20%;
-}
-
- .img-style{
-   height:70px !important;
-   width:9%;
- }
 }
