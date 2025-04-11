@@ -372,7 +372,7 @@ New
    }
   }
   
-=======
+@media screen and (max-width:768px){
   .mainN {
       padding-bottom:100px !important;
   }
@@ -400,4 +400,3 @@ New
    width:9%;
  }
 }
->>>>>>> fc846ccf21df944da0239c4e7d5d86ecb02054e2
